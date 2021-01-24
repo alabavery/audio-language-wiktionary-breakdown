@@ -1,3 +1,4 @@
+docker rm -f wiktionary-breakdown;
 docker run \
     --name=wiktionary-breakdown \
     -v $1:"/pages_directory_mount" \
