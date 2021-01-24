@@ -1,7 +1,7 @@
 import re
 import sys
 
-any_language_header_matcher = re.compile('\s==[^=]\S*[^=]==\s')
+any_language_header_matcher = re.compile('\s==[A-Z][\w\s-]+==\s')
 
 # get from ==Spanish== to end of file or to next language
 def get_language_section(page_text, language):
@@ -15,7 +15,7 @@ def get_language_section(page_text, language):
 
     if next_language_header_match == None:
         return after_start
-    return next_language_header_match.start() - 1
+    return after_start[:next_language_header_match.start() - 1]
 
 
 if __name__ == '__main__':
