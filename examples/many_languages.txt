@@ -1,0 +1,188 @@
+{{also|informál}}
+==English==
+
+===Etymology===
+From {{prefix|en|in|formal}}.
+
+===Pronunciation===
+* {{a|GA}} {{IPA|en|/ɪnˈfɔɹm(ə)l/}}
+* {{a|RP}} {{IPA|en|/ɪnˈfɔːm(ə)l/}}
+* {{audio|en|en-us-informal.ogg|Audio (US)}}
+* {{hyphenation|en|in|for|mal}}
+* {{rhymes|en|ɔː(ɹ)məl}}
+
+===Adjective===
+{{en-adj}}
+
+# Not [[formal]] or [[ceremonious]].
+#* {{quote-book|en|year=1918|author={{w|W. B. Maxwell}}|chapter=3
+|title=[http://openlibrary.org/works/OL1097634W The Mirror and the Lamp]
+|passage=One saint's day in mid-term a certain newly appointed suffragan-bishop came to the school chapel, and there preached on “The Inner Life.”&nbsp; He at once secured attention by his '''informal''' method, and when presently the coughing of Jarvis […] interrupted the sermon, he altogether captivated his audience with a remark about cough lozenges being cheap and easily procurable.}}
+#* {{quote-journal|1=en|year=2019|author=Li Huang|author2=James Lambert|title=Another Arrow for the Quiver: A New Methodology for Multilingual Researchers|journal=Journal of Multilingual and Multicultural Development|doi=10.1080/01434632.2019.1596115|page=4|text=Students and faculty members lunch at the cafeteria and naturally communicate freely with one another in a relaxed and '''informal''' setting.}}
+#: {{ux|en|an '''informal''' get-together}}
+# Not in [[accord]] with the [[usual]] [[regulation]]s.
+#: {{ux|en|an '''informal''' agreement}}
+# [[suit|Suited]] for [[everyday]] use.
+#: {{ux|en|'''informal''' clothes}}
+# {{lb|en|of language}} Reflecting [[everyday]], non-ceremonious [[usage]].
+# {{lb|en|gardening}} Not [[organized]]; not [[structured]] or [[planned]].
+
+====Synonyms====
+* {{sense|not formal or ceremonious}} {{l|en|casual}}
+* {{sense|not in accord with the usual regulations}} {{l|en|unofficial}}
+* {{sense|suited for everyday use}} {{l|en|casual}}
+* {{sense|language: reflecting everyday, non-ceremonious usage}} {{l|en|colloquial}}
+
+====Antonyms====
+* {{l|en|formal}}
+
+====Derived terms====
+* {{l|en|informality}}
+* {{l|en|informally}}
+* {{l|en|semi-informal}}
+
+====Translations====
+{{trans-top|not formal or ceremonious}}
+* Belarusian: {{t|be|нефарма́льны}}, {{t|be|неафіцы́йны}}
+* Bulgarian: {{t|bg|неформален}}, {{t+|bg|неофициален}}
+* Catalan: {{t+|ca|informal}}
+* Chinese:
+*: Mandarin: {{t+|cmn|非正式|tr=fēizhèngshì|sc=Hani}}
+* Czech: {{t+|cs|neformální}}
+* Esperanto: {{t|eo|neformala}}
+* Finnish: {{t+|fi|epämuodollinen}}
+* French: {{t+|fr|informel}}
+* Galician: {{t|gl|informal}}
+* German: {{t+|de|informell}}, {{t|de|unförmlich}}, {{t+|de|zwanglos}}
+* Greek: {{t+|el|φιλικός}}
+* Hindi: {{t|hi|अनौपचारिक}}
+* Hungarian: {{t+|hu|közvetlen}}
+* Icelandic: {{t+|is|óformlegur}}
+* Irish: {{t|ga|neamhnósúil}}
+* Italian: {{t+|it|informale}}
+{{trans-mid}}
+* Japanese: {{t+|ja|非公式|alt=非公式の|tr=hikōshiki no|sc=Jpan}}, {{t+|ja|日常|alt=日常の|tr=nichijō no|sc=Jpan}}, {{t+|ja|普段|alt=普段の|tr=fudan no|sc=Jpan}}, {{t+|ja|褻|alt=褻の|tr=ke no|sc=Jpan}}
+* Manx: {{t|gv|neuformoil}}
+* Maori: {{t|mi|ōpaki}}, {{t|mi|hāramuramu}}
+* Norwegian:
+*: Bokmål: {{t|nb|uhøytidelig}}
+* Occitan: {{t|oc|informal}}
+* Polish: {{t+|pl|potoczny}}, {{t+|pl|nieformalny}}
+* Portuguese: {{t+|pt|informal}}
+* Russian: {{t+|ru|неформа́льный}}, {{t+|ru|неофициа́льный}}, {{t+|ru|непринуждённый}}
+* Spanish: {{t+|es|informal}}
+* Swedish: {{t+|sv|informell}}
+* Tagalog: {{t|tl|dimaanyo}}
+* Thai: {{t|th|ไม่เป็นทางการ}}
+* Turkish: {{t+|tr|teklifsiz}}
+* Ukrainian: {{t|uk|неформа́льний}}, {{t|uk|неофіці́йний}}
+* Welsh: {{t+|cy|anffurfiol}}
+{{trans-bottom}}
+
+{{trans-top|not in accord with the usual regulations}}
+* Bulgarian: {{t+|bg|безцеремонен}}
+* Chinese:
+*: Mandarin: {{t+|cmn|非正式|tr=fēizhèngshì|sc=Hani}}
+* Finnish: {{t+|fi|epämuodollinen}}, {{t+|fi|epävirallinen}}
+* French: {{t+|fr|informel}}
+* German: {{t+|de|inoffiziell}}
+{{trans-mid}}
+* Italian: {{t+|it|informale}}, {{t|it|non officiale}}
+* Japanese: {{t+|ja|非公式|alt=非公式の|tr=hikōshiki no|sc=Jpan}}, {{t+|ja|内々|alt=内々の|tr=uchiuchi no|sc=Jpan}}
+* Spanish: {{t+|es|informal}}
+* Tagalog: {{t|tl|dimaanyo}}
+* Turkish: {{t+|tr|gayriresmî}}
+{{trans-bottom}}
+
+{{trans-top|language: reflecting everyday, non-ceremonious usage}}
+* Belarusian: {{t|be|размо́ўны}}
+* Bulgarian: {{t+|bg|разговорен}}
+* Chinese:
+*: Mandarin: {{t+|cmn|俗|tr=sú|sc=Hani}}
+* Finnish: {{t+|fi|arkikielinen}}
+* French: {{t+|fr|informel}}, {{t+|fr|familier}}
+* Greek: {{t+|el|ανεπίσημος}}
+{{trans-mid}}
+* Italian: {{t+|it|informale}}, {{t+|it|colloquiale}}, {{t+|it|familiare}}
+* Japanese: {{t+|ja|口語|alt=口語の|tr=kōgo no|sc=Jpan}}
+* Macedonian: {{t|mk|разговорен}}
+* Russian: {{t+|ru|разгово́рный}}
+* Spanish: {{t+|es|familiar}}
+* Turkish: {{t+|tr|senli benli}}, {{t+|tr|teklifsiz}}
+* Ukrainian: {{t|uk|розмо́вний}}
+{{trans-bottom}}
+
+===Anagrams===
+* {{anagrams|en|a=afilmnor|formalin}}
+
+----
+
+==Catalan==
+
+===Etymology===
+{{prefix|ca|in|formal}}
+
+===Pronunciation===
+* {{ca-IPA}}
+
+===Adjective===
+{{ca-adj|mf}}
+
+# {{l|en|informal}}
+
+====Derived terms====
+* {{l|ca|informalment}}
+
+====Further reading====
+* {{R:IEC2}}
+
+----
+
+==Galician==
+
+===Adjective===
+{{gl-adj|pl=informais}}
+
+# {{l|en|informal}}
+
+====Antonyms====
+* {{l|gl|formal}}
+
+====Derived terms====
+* {{l|gl|informalmente}}
+
+====Further reading====
+* {{R:RAG}}
+
+----
+
+==Portuguese==
+
+===Adjective===
+{{pt-adj|informa|l}}
+
+# {{l|en|informal}} {{gloss|not formal or ceremonious}}
+
+====Further reading====
+* {{R:DAN}}
+
+----
+
+==Spanish==
+
+===Pronunciation===
+* {{es-IPA}}
+
+===Adjective===
+{{es-adj|pl=informales}}
+
+# {{l|en|informal}}
+#: {{ant|es|formal}}
+
+====Derived terms====
+* {{l|es|falacia formal}}
+* {{l|es|informalidad}}
+* {{l|es|informalmente}}
+
+====Further reading====
+* {{R:DRAE}}

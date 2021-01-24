@@ -1,0 +1,29 @@
+{{also|estas|éstas|estàs|ēstas|ēstās|ėstas}}
+==Galician==
+
+===Verb===
+{{gl-verb-form}}
+
+# {{inflection of|gl|estar||2|s|pres|indc}}
+
+----
+
+==Portuguese==
+
+===Pronunciation===
+* {{a|Portugal}} {{IPA|pt|/iʃ.ˈtaʃ/}}
+* {{a|Brazil}} {{IPA|pt|/es.ˈta(j)s/|/is-/}}
+
+===Verb===
+{{head|pt|verb form}}
+
+# {{pt-verb-form-of|estar|as}}
+
+----
+
+==Spanish==
+
+===Verb===
+{{head|es|verb form}}
+
+# {{es-verb form of|mood=ind|tense=pres|num=s|pers=2|formal=n|ending=ar|estar}}

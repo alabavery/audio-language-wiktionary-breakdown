@@ -1,0 +1,7 @@
+==Spanish==
+
+===Pronoun===
+{{head|es|pronoun|g=f-p|feminine singular|cuya|masculine|cuyo|masculine plural|cuyos}}
+
+# {{feminine plural of|es|cuyo|nodot=yes}}, [[whose]]
+[[Category:Spanish determiners]]
