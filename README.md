@@ -12,3 +12,5 @@
     }
 ]
 ```
+### Usage
+`./start <path to directory where wiki pages are> <directory to save to> <language>`

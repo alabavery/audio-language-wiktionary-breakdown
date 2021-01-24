@@ -1,4 +1,5 @@
 import re
+import sys
 
 any_language_header_matcher = re.compile('\s==[^=]\S*[^=]==\s')
 
@@ -10,8 +11,16 @@ def get_language_section(page_text, language):
         raise RuntimeError("Did not find start of language")
 
     after_start = page_text[starts_at + len(language_header):]
-    next_language_header_match = any_language_header_matcher.match(after_start)
+    next_language_header_match = any_language_header_matcher.search(after_start)
 
     if next_language_header_match == None:
         return after_start
     return next_language_header_match.start() - 1
+
+
+if __name__ == '__main__':
+    page_path, language = sys.argv[1:3]
+    with open(page_path, 'r') as f:
+        t = f.read()
+    res = get_language_section(t, language)
+    print(res)
