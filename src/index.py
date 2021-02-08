@@ -17,8 +17,6 @@ for word, path in source_words_and_paths:
     try:
         write_success(word, main(path, language), target_dir)
     except Exception as e:
-        print("Problem on word '{word}':".format(word=word))
-        print(e)
         errors.append({"word": word, "error": str(e)})
         continue
 
